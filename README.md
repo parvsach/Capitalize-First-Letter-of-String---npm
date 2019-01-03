@@ -7,11 +7,11 @@ npm install  --save
 ```
 ## Usage
 ```javascript
-var CapitalizeFirstLetter = require('');
+var CapitalizeFirstLetterOfString = require('');
 
-CapitalizeFirstLetter(null) //=> ''
-CapitalizeFirstLetter(undefined) //=> ''b
-CapitalizeFirstLetter('hello world') //=> Hello world
+CapitalizeFirstLetterOfString(null) //=> ''
+CapitalizeFirstLetterOfString(undefined) //=> ''b
+CapitalizeFirstLetterOfString('hello world') //=> Hello world
 ```
 ## License
 MIT
