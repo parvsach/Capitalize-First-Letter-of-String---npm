@@ -3,11 +3,11 @@ Convert the First Letter of String to Capital letter. Supports only String value
 
 ## Installtion
 ``` javascript
-npm install  --save
+npm install --save capitalizefirstletterofstring
 ```
 ## Usage
 ```javascript
-var CapitalizeFirstLetterOfString = require('');
+var CapitalizeFirstLetterOfString = require('capitalizefirstletterofstring');
 
 CapitalizeFirstLetterOfString(null) //=> ''
 CapitalizeFirstLetterOfString(undefined) //=> ''b
